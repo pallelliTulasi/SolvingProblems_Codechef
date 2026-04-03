@@ -15,11 +15,13 @@ Private Repository create by CodeSyncer Extenstion
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Backtracking
@@ -38,6 +40,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
 | [1622-fancy-sequence](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Search
