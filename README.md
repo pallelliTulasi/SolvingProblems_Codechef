@@ -41,6 +41,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
+| [0172-factorial-trailing-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [1622-fancy-sequence](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Search
