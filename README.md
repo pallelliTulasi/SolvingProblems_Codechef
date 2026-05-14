@@ -45,6 +45,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0012-integer-to-roman](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
 | [0172-factorial-trailing-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0172-factorial-trailing-zeroes/) | Medium |
+| [0365-water-and-jug-problem](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0365-water-and-jug-problem/) | Medium |
 | [1622-fancy-sequence](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 ## Binary Search
@@ -85,4 +86,12 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3643-flip-square-submatrix-vertically](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0365-water-and-jug-problem/) | Medium |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0365-water-and-jug-problem](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0365-water-and-jug-problem/) | Medium |
 <!---LeetCode Topics End-->
