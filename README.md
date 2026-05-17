@@ -6,6 +6,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -34,6 +35,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
 | [3129-find-all-possible-stable-binary-arrays-i](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3129-find-all-possible-stable-binary-arrays-i/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
