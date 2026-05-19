@@ -8,6 +8,7 @@ Private Repository create by CodeSyncer Extenstion
 | ------- | ------- |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
+| [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
@@ -90,6 +91,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
