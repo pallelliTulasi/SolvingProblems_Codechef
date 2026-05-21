@@ -6,6 +6,7 @@ Private Repository create by CodeSyncer Extenstion
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
@@ -115,9 +116,22 @@ Private Repository create by CodeSyncer Extenstion
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 <!---LeetCode Topics End-->
