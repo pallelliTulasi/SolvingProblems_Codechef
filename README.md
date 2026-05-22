@@ -54,6 +54,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0172-factorial-trailing-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
 | [0365-water-and-jug-problem](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0365-water-and-jug-problem/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0728-self-dividing-numbers](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0728-self-dividing-numbers/) | Easy |
 | [1622-fancy-sequence](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1622-fancy-sequence/) | Hard |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
@@ -134,4 +135,8 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0371-sum-of-two-integers](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0371-sum-of-two-integers/) | Medium |
 <!---LeetCode Topics End-->
