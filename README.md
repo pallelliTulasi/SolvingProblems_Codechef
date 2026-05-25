@@ -7,6 +7,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
@@ -85,6 +86,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -101,6 +103,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
+| [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
 | [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Depth-First Search
