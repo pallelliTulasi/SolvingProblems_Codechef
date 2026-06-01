@@ -17,6 +17,7 @@ Private Repository create by CodeSyncer Extenstion
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2788-split-strings-by-separator](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2788-split-strings-by-separator/) | Easy |
 | [3070-count-submatrices-with-top-left-element-and-sum-less-than-k](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3070-count-submatrices-with-top-left-element-and-sum-less-than-k/) | Medium |
 | [3296-minimum-number-of-seconds-to-make-mountain-height-zero](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3296-minimum-number-of-seconds-to-make-mountain-height-zero/) | Medium |
 | [3567-minimum-absolute-difference-in-sliding-submatrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3567-minimum-absolute-difference-in-sliding-submatrix/) | Medium |
@@ -37,6 +38,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0125-valid-palindrome](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0344-reverse-string/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
+| [2788-split-strings-by-separator](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
