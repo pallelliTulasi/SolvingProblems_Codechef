@@ -37,6 +37,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
 | [0125-valid-palindrome](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0125-valid-palindrome/) | Easy |
 | [0344-reverse-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0344-reverse-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2788-split-strings-by-separator](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2788-split-strings-by-separator/) | Easy |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
@@ -114,6 +115,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0125-valid-palindrome](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
 | [0344-reverse-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0344-reverse-string/) | Easy |
+| [1768-merge-strings-alternately](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1768-merge-strings-alternately/) | Easy |
 | [3643-flip-square-submatrix-vertically](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/3643-flip-square-submatrix-vertically/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
