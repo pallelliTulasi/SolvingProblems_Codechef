@@ -14,6 +14,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0204-count-primes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0204-count-primes/) | Medium |
 | [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
 | [0867-transpose-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0867-transpose-matrix/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1351-count-negative-numbers-in-a-sorted-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1351-count-negative-numbers-in-a-sorted-matrix/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
@@ -28,6 +29,7 @@ Private Repository create by CodeSyncer Extenstion
 | [0012-integer-to-roman](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0013-roman-to-integer/) | Easy |
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
+| [0904-fruit-into-baskets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0904-fruit-into-baskets/) | Medium |
 | [1980-find-unique-binary-string](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1980-find-unique-binary-string/) | Medium |
 | [2840-check-if-strings-can-be-made-equal-with-operations-ii](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/2840-check-if-strings-can-be-made-equal-with-operations-ii/) | Medium |
 ## String
@@ -162,4 +164,8 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0867-transpose-matrix](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0867-transpose-matrix/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0904-fruit-into-baskets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0904-fruit-into-baskets/) | Medium |
 <!---LeetCode Topics End-->
