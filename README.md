@@ -7,6 +7,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0108-convert-sorted-array-to-binary-search-tree/) | Easy |
 | [0118-pascals-triangle](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0118-pascals-triangle/) | Easy |
@@ -95,6 +96,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0169-majority-element/) | Easy |
 | [1727-largest-submatrix-with-rearrangements](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/1727-largest-submatrix-with-rearrangements/) | Medium |
@@ -113,6 +115,7 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0018-4sum/) | Medium |
+| [0075-sort-colors](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0075-sort-colors/) | Medium |
 | [0088-merge-sorted-array](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0088-merge-sorted-array/) | Easy |
 | [0125-valid-palindrome](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0283-move-zeroes/) | Easy |
