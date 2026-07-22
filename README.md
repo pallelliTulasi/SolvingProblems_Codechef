@@ -171,4 +171,8 @@ Private Repository create by CodeSyncer Extenstion
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0904-fruit-into-baskets](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0904-fruit-into-baskets/) | Medium |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/pallelliTulasi/SolvingProblems_Codechef/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
